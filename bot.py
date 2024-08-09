@@ -443,4 +443,4 @@ async def kullanıcı_bilgisi(ctx, member: discord.Member = None):
     # Bilgiyi gönder
     await ctx.send(f"**Kullanıcı Bilgisi:**\n{user_info}")
 
-bot.run("MTI3MTUzODAxMDIzOTkyNjM2Mw.Guqr9d.tx0GSLk6mpAVH9oKcL1wlWX7PzQldpJgL_oQ3I")
+bot.run("BOT TOKEN")
